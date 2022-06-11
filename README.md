@@ -30,6 +30,7 @@
 | ------------- | ------------- |
 | Павел Шмачилин | [YouTube](https://www.youtube.com/user/Shmachilin)
 | BashkaMen | [YouTube](https://www.youtube.com/c/BashkaMen)
+| Руслан Галеев | [YouTube](https://www.youtube.com/channel/UCy2PpDsaSdomh-WfqUUiTlw)
 
 ### 👥 .NET Собеседования
 
