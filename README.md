@@ -44,3 +44,9 @@
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
 | Андрей Созыкин | [Курс по сетям](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
+
+### ✒️ Блоги
+
+| Имя или никнейм  | Ссылка на контент |
+| ------------- | ------------- |
+| Joel Spolsky (stackoverflow founder) | [Блог](https://www.joelonsoftware.com)
