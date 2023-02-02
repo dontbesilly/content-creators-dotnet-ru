@@ -13,6 +13,7 @@
 | codaza | [YouTube](https://www.youtube.com/c/codaza-channel)
 | Andrey Shyrokoriadov | [YouTube](https://www.youtube.com/c/AndreyShyrokoriadov)
 | Platinum DEV | [YouTube](https://www.youtube.com/c/PlatinumTechTalks)
+| Nick Chapsas | [YouTube](https://www.youtube.com/@nickchapsas)
 | Нуб Кодер | [YouTube](https://www.youtube.com/channel/UCOnwN8Y6H22XoxYk4YT3s4w)
 | Byte++ | [YouTube](https://www.youtube.com/c/Bytepp)
 | Видео и стримы с конференции DotNextConf | [YouTube](https://www.youtube.com/c/DotNextConf)
