@@ -16,6 +16,7 @@
 | Нуб Кодер | [YouTube](https://www.youtube.com/channel/UCOnwN8Y6H22XoxYk4YT3s4w)
 | Byte++ | [YouTube](https://www.youtube.com/c/Bytepp)
 | Видео и стримы с конференции DotNextConf | [YouTube](https://www.youtube.com/c/DotNextConf)
+| 12 факторное приложение на dotnet | [Youtube](https://www.youtube.com/watch?v=x_CBZ4xMlm0&list=PLdYH-BkSbBMIReRp2rhAhc4gHZVGNXKUh)
 
 ### 🔥 .NET стримы
 
