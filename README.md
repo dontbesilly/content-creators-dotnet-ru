@@ -10,19 +10,22 @@
 
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
-| codaza | [YouTube](https://www.youtube.com/c/codaza-channel)
+| Matthew Rentoolo | [YouTube](https://www.youtube.com/@matthewdubrovin)
 | Andrey Shyrokoriadov | [YouTube](https://www.youtube.com/c/AndreyShyrokoriadov)
-| Platinum DEV | [YouTube](https://www.youtube.com/c/PlatinumTechTalks)
 | Нуб Кодер | [YouTube](https://www.youtube.com/channel/UCOnwN8Y6H22XoxYk4YT3s4w)
-| Byte++ | [YouTube](https://www.youtube.com/c/Bytepp)
 | Видео и стримы с конференции DotNextConf | [YouTube](https://www.youtube.com/c/DotNextConf)
 | 12 факторное приложение на dotnet | [Youtube](https://www.youtube.com/watch?v=x_CBZ4xMlm0&list=PLdYH-BkSbBMIReRp2rhAhc4gHZVGNXKUh)
+
+### 📖 Текстовые блоги
+
+| Имя или никнейм  | Ссылка на контент |
+| ------------- | ------------- |
+| Zznob | [zznob](https://zznob.ru/)
 
 ### 🔥 .NET стримы
 
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
-| Андрей Подколзин | [YouTube](https://www.youtube.com/c/DevJungles)
 | Сообщество DotNetRu | [YouTube](https://www.youtube.com/c/DotNetRu)
 
 ### 🧑‍🎓 Бесплатные онлайн-курсы
@@ -35,16 +38,14 @@
 
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
-| Павел Шмачилин | [YouTube](https://www.youtube.com/user/Shmachilin)
 | BashkaMen | [YouTube](https://www.youtube.com/c/BashkaMen)
-| Руслан Галеев | [YouTube](https://www.youtube.com/channel/UCy2PpDsaSdomh-WfqUUiTlw)
 
 ### 👥 .NET Собеседования
 
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
 | Отсобеседование | [YouTube](https://www.youtube.com/c/otsobes)
-| Степан Береговой | [YouTube](https://www.youtube.com/c/SBeregovoyRU)
+| TeachMeSkills | [YouTube](https://www.youtube.com/watch?v=zQbk4hVzVyU)
 
 ### 📡 Сети
 
@@ -57,3 +58,15 @@
 | Имя или никнейм  | Ссылка на контент |
 | ------------- | ------------- |
 | Alek OS | [YouTube](https://www.youtube.com/c/AlekOS1)
+
+### 🗄 Архив
+
+| Имя или никнейм  | Ссылка на контент |
+| ------------- | ------------- |
+| codaza | [YouTube](https://www.youtube.com/c/codaza-channel)
+| Platinum DEV | [YouTube](https://www.youtube.com/c/PlatinumTechTalks)
+| Byte++ | [YouTube](https://www.youtube.com/c/Bytepp)
+| Андрей Подколзин | [YouTube](https://www.youtube.com/c/DevJungles)
+| Павел Шмачилин | [YouTube](https://www.youtube.com/user/Shmachilin)
+| Руслан Галеев | [YouTube](https://www.youtube.com/channel/UCy2PpDsaSdomh-WfqUUiTlw)
+| Степан Береговой | [YouTube](https://www.youtube.com/c/SBeregovoyRU)
